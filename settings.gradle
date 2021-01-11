@@ -1,0 +1,2 @@
+rootProject.name='mb6'
+include ':app'
